@@ -11,7 +11,7 @@ Project 7
 
 ## Introduction
 
-![Result](./images/track_one.gif) | ![Result](./images/track_one.gif) | ![Result](./images/track_one.gif)
+![Result](https://github.com/Ansheel9/Path-Planning/blob/master/extra/higway_2.gif) | ![Result](https://github.com/Ansheel9/Path-Planning/blob/master/extra/higway_3.gif) | ![Result](https://github.com/Ansheel9/Path-Planning/blob/master/extra/higway_6.gif)
 
 In this project, the goal is to design a path planner that is able to create smooth, safe paths for the car to follow along a 3 lane highway with traffic. The path planner is able to keep inside its lane, avoid hitting other cars, and pass slower moving traffic all by using localization, sensor fusion, and map data. The car transmits its location, along with its sensor fusion data, which estimates the location of all the vehicles on the same side of the road.
 
@@ -45,7 +45,7 @@ In this project, the goal is to design a path planner that is able to create smo
 
 ## Model Description 
 
-![Result](./images/track_one.gif)
+![Result](https://github.com/Ansheel9/Path-Planning/blob/master/extra/HighwayPathPlanner.png)
 
 #### States Description
 
@@ -89,6 +89,6 @@ We are provided with the different way points around the track to follow.
 
 ## Result
 
-![training_img](./images/track_one.gif)
+![training_img](https://github.com/Ansheel9/Path-Planning/blob/master/extra/result.PNG)
 
 The car moves without colliding with other objects or surrounding.
